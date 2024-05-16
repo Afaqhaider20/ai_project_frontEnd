@@ -1,0 +1,11 @@
+/* global.css */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+    /* Set the background color to Rose Pine Moon theme */
+    background-color: #292D3E; /* Dark Blue/Purple */
+    color: #F8F8F2; /* Light Grayish White */
+}
